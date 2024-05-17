@@ -5,8 +5,8 @@ const StudentInfo = () => {
     <div>
       <h2>Arthur Birck Lopes</h2>
       <p>
-      <Link href="https://github.com/Arthur4Lopes/goCart" target="_blank" rel="noopener noreferrer">
-        https://github.com
+      <Link href="https://github.com/Arthur4Lopes/cprg306-assignments" target="_blank" rel="noopener noreferrer">
+      https://github.com/Arthur4Lopes/cprg306-assignments
         </Link>
       </p>
     </div>
